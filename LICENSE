@@ -1,21 +1,33 @@
-MIT License
+DTO-OSSL 2.1 (Full)
+Delta OPEN Off-Scratch-Software-License 2.1
 
-Copyright (c) 2025 31parkjulianTehCoder
+Copyright 2025 31parkjulian
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Note: This license aims to comply with the Open Source Definition. It grants all OSI-compliant rights, including commercial redistribution, provided the conditions below are met.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+THIS SOFTWARE IS INTENDED TO BE FREE AND OPEN-SOURCE. IF YOU RECEIVED IT AS PART OF A PAID BUNDLE, THIS IS PERMITTED, PROVIDED THE LICENSE TERMS AND SOURCE REMAIN ACCESSIBLE.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+1. Definitions
+	“Original Work” refers to the software's original, unmodified state to which this license applies. "Creator(s)” denotes the developer(s), organization, company, association, and/or distributor responsible for creating This Software, patch, app, distribution, or any other digital media. “Derivative Work” describes any modified form of This Software and/or any software containing all or part of the original work. “This Software” refers to the Original Work as licensed under this agreement.
+
+2. Terms of Agreement
+	By performing any of the following actions, you agree to be bound by the terms of this license:
+	(1) Using the original work in any format (2) Downloading, saving, and/or utilizing the original work (3) Performing any of the above actions with any derivative works
+
+3. License Grant
+	Subject to the terms and restrictions outlined in this license (See 4. Restrictions), the creator(s) grant you the following rights:
+	(1) to use This Software for any purpose, including personal or commercial use (2) to redistribute the original work in any form with appropriate credit (3) all rights granted without any compulsory fees
+
+4. Restrictions
+	Redistribution and usage in source and binary forms, with or without modifications, are permitted if the following conditions are satisfied: Violating any of these terms will terminate the rights granted by this license (see 6. Termination):
+	(1) Redistributions of source code must retain the copyright notice above, this list of conditions, and the following disclaimer. (2) Redistributions in binary form must include the copyright notice above, this list of conditions, and the following disclaimer in the documentation and/or other materials that accompany the distribution. (3) Neither the copyright holder’s name nor the names of its contributors may be used to endorse or promote products derived from This Software without specific prior written consent. (4) This software may be redistributed, with or without modification, for free or for a fee, provided attribution and license terms are preserved. (5) If you distribute a modified version of This Software, you must clearly document all substantial changes made. It is recommended (but not required) to include a link or reference to the original source.
+
+
+5. Limitation on Liability
+	THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT ANY WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. UNDER NO CIRCUMSTANCES SHALL THE CREATOR(S) BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITIES, WHETHER ARISING FROM CONTRACT, TORT, OR OTHERWISE, RELATED TO THE SOFTWARE OR THE USE OR OTHER DEALINGS WITH THE SOFTWARE.
+
+6. Termination
+	In the event of a license violation, all rights granted under this license are suspended unless and until the violation is cured within 30 days of discovery. Rights are automatically reinstated if the violation is remedied. This license is otherwise irrevocable.
+
+7. Language
+	This agreement was initially drafted in English (US). In the event of any conflict between a translated version and the English version, the English version will control.
