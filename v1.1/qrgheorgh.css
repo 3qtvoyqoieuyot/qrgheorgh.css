@@ -1,0 +1,183 @@
+/* qrgheorgh CSS */
+/* version 1.1 */
+
+/* A utility last CSS file- I mean framework  */
+
+/* Inspired by the simplicity and elegance of TailwindCSS */
+
+/* This intro thingy is already kinda long so heres a faq */
+/* Q. How's it going? */
+/* A. Good */
+/* Q. Why did you make this? */
+/* A. Why not */
+/* Q. Why did you say "Am I right" so many times? */
+/* A. Repetition is the best, am I right? */
+/* Q. Is a hotdog a sandwich? */
+/* A. How is that related to CSS? */
+/* Q. HEY IM THE ONE ASKING QUESTIONS HERE!!! */
+
+/* 
+Changelog - What's new in version 1.1
+
+"If you are losing in a game of chess, an easy technique is to get out your rocket launcher and force them to lose" - Dack Z. Films
+
+- Made the FAQ make a bit more sense [although I guess this doesn't matter if you're using the minified version :(]
+- Changed "flexbox-wait-a-sec-just-flexbot-is-way-too-short-of-a-name-so-let-me-tell-you-a-story-once-upon-a-time-the-end-wow-what-a-great-story-am-i-right-am-i-right" to "flexbox-wait-a-sec-just-flexbox-is-way-too-short-of-a-name-so-let-me-tell-you-a-story-once-upon-a-time-the-end-wow-what-a-great-story-am-i-right-am-i-right"
+  Yes, I changed a singular letter.
+- Changed "i-was-told-that-using-a-web-safe-font-was-a-good-idea-am-i-right-but-i-dont-care-anymore" from Courier New to Helvetica
+- Added "me-when-making-this-dumb-framework" which is just some random meme from a discord server
+- Removed the comment in "this-div-is-EVEN-NOICER" because I think the animation works [although I guess this doesn't matter if you're using the minified version :<]
+*/
+
+
+@import url("https://fonts.googleapis.com/css2?family=Comic+Neue&display=swap");
+
+body {
+  background-color: #FF00EE;
+  font-family: "Comic Sans MS", "Comic Sans", "Comic Neue", cursive, sans-serif;
+  color: #00FF15;
+  font-size: 40pt;
+}
+.kinda-small-text-i-guess {
+  font-size: 300pt;
+}
+
+.ooh-this-is-big-boi-text {
+  font-size: 50vh;
+}
+
+.woaw-uh-this-sure-is-a-color-am-i-right-hahahahahahahahahahhahahahahaha {
+  background-color: #FF00EE;
+}
+
+.woaw-uh-this-sure-is-a-color-am-i-right-hahahahahahahahahahhahahahahaha-oh-wait-but-now-its-text-wow {
+  color: #FF00EE;
+}
+.public-service-announcment-uh-if-your-potatoes-are-this-colors-dont-eat-them {
+  color: #00FF15;
+}
+
+.public-service-announcment-uh-if-your-potatoes-are-this-colors-still-dont-eat-them {
+  background-color: #00FF15;
+}
+
+.grade-f-for-font-choice {
+  font-family: "Papyrus", "Comic Sans MS", cursive;
+}
+
+.this-text-has-e-coli {
+  text-decoration: underline wavy red;
+}
+
+.bg-blue-500 {
+  color: red;
+}
+
+.this-div-is-NOICE {
+  height: 69pt;
+  width: 69pt;
+  outline: 5px solid orange;
+}
+
+.this-div-is-EVEN-NOICER {
+  height: 69pt;
+  width: 69pt;
+  outline: 5px solid orange;
+  animation: spin-noice 1.69s infinite linear;
+}
+
+@keyframes spin-noice {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.flexbox-wait-a-sec-just-flexbox-is-way-too-short-of-a-name-so-let-me-tell-you-a-story-once-upon-a-time-the-end-wow-what-a-great-story-am-i-right-am-i-right {
+  display: flex;
+}
+
+.man-why-does-flexbox-get-that-long-name-grid-is-better-am-i-right-my-grid-homies-so-uh-yeah-lets-try-to-make-this-class-name-even-longer-cuz-grid-is-just-better-am-i-right-it-works-in-two-dimensions-flexbox-could-never{
+  display: grid;
+}
+
+.bruh-grid-thinks-theyre-so-cool-i-mean-i-once-spent-like-2-hours-trying-to-make-something-with-just-grid {
+  display: inline-block;
+}
+
+.margin-is-for-people-who-hate-the-side-of-the-screen {
+  	margin: 100px 50px 100px 50px;
+}
+
+.the-padding-of-my-youth-was-full-of-regret-and-also-25-percent-width-am-i-right {
+  padding-left: 25%;
+}
+
+.flexbox-oh-but-just-for-the-end-i-guess {
+  justify-content: flex-end;
+}
+
+.the-div-is-trying-to-hide-from-you-but-it-knows-its-not-safe-from-the-wrath-of-----------REACT----------------DUN-DUN-DUN {
+  opacity: 0.05;
+}
+
+.i-was-told-that-using-a-web-safe-font-was-a-good-idea-am-i-right-but-i-dont-care-anymore {
+  font-family: "Helvetica," sans-serif;
+}
+
+.im-just-going-to-use-a-font-weight-that-no-one-ever-uses-not-too-bold-not-too-light {
+  font-weight: 875;
+}
+
+.margin-of-error-is-only-one-hundred-pixels-not-a-fraction-of-a-percent-thank-you {
+  margin: 100px;
+}
+
+.when-you-look-at-this-element-it-will-be-deeply-ashamed-of-itself-and-try-to-shrink-away-from-you-you-cant-run-from-the-internet-am-i-right:hover {
+  transform: scale(0.5) rotate(180deg); opacity: 0; transition: all 1s;
+}
+
+.i-forgot-how-to-spell-alighn-so-i-use-this-instead {
+  position: absolute; left: 50%; transform: translateX(-50%);
+}
+
+.outline-black {
+  outline: 2px dotted white;
+  outline-offset: 2px;
+}
+.outline-white {
+  outline: 2px dotted black;
+  outline-offset: 2px;
+}
+
+.i-dont-know-what-this-does-but-looks-fun-amiright {
+  	-webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.this-div-ate-too-many-bigmacs {
+  width: 75vh;
+}
+
+.a-but-its-a-button-because-screw-u-semantics {
+  color: white;
+  background-color: dodgerblue;
+  padding: 10px;
+  border-radius:10px;
+  text-decoration: none;
+}
+
+.i-have-been-lied-to-this-is-not-a-square-u-liar-this-is-a-circle {
+  border-radius: 50vh;
+}
+
+.me-when-making-this-dumb-framework {
+  width: 300px;
+  height: 200px;
+  background-image: url('https://media.discordapp.net/attachments/1197491292461080656/1412153275117076500/image-16.png?ex=68d988b9&is=68d83739&hm=ed3afd0fa037c88290ad74ca0c306dac38a815803a3512119fece17230ea90fa&=&format=webp&quality=lossless');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.content-end {
+  align-content: flex-end;	
+}
