@@ -1,0 +1,307 @@
+/* qrgheorgh CSS */
+/* version 1.2 */
+
+/* A utility last CSS file- I mean framework  */
+
+/* Inspired by the simplicity and elegance of TailwindCSS */
+/* This intro thingy is already kinda long so heres a faq */
+/* Q. How's it going? */
+/* A. Good */
+/* Q. Why did you make this? */
+/* A. Why not */
+/* Q. Why did you say "Am I right" so many times? */
+/* A. Repetition is the best, am I right? */
+/* Q. Is a hotdog a sandwich? */
+/* A. How is that related to CSS? */
+/* Q. HEY IM THE ONE ASKING QUESTIONS HERE!!! */
+
+/* 
+Changelog - What's new in version 1.2
+
+"To confuse yourself, you must first confuse the enemy." - Tzu Sun
+
+-  added .pr-says-you-can-only-use-this-class-during-pride-month-and-you-must-remove-it-the-milisecond-july-starts which is a rainbow gradient because... I think you get it
+-  added ten new colors that totally arent randomly generated
+-  added classes for block and none
+-  added .this-div-is-just-slightly-offscreen
+-  added .hmMMMmmMMMMMMmMMmmMmmmMmmmmMmmmMmmmmmMmMMMMMMmmmmmmmmMMMMmmmmmMMMMMmmMmMmmmmmmMMMMMMmmmmmmmmmmmmMmMMMmmmMmmmmmmmMMMMMMMmMmmmmmmmmmmMMmmmmmmmmMMMmMMmMmmmMMMmmmmmmmmmmmmmmMMMMMMMMMMMnMMMMmmmmmmmmmMMMmmMMmMMMMmMMMmmmmmMmMMmMMmMMMmmMmmMMmMmMmmmMMmMmmMmmMmMmmmmmmMMmMMMMMMMMmmmmmmMmMmMMMMMMmmmmmmm
+-  added .average-trumpet-player
+-  added .So-ApPaRaNtLy-ClAsSeS-aRe-CaSe-SeNsItIvE-sOOoooOOoOooOOooOOOoooOOooOoooooo0-HereS-SOmEtHHiNg-acTualLy-UssEfUo-bUT-u-HAve-2-Wurk-4-it-lOl
+-  added .pov-every-logo-in-the-2020s-be-like
+-  added .grid-template-rows-but-its-the-humger-games and its column counterpart
+-  added .my-7thgrade-history-teachers-ideal-essay and .my-elementary-school-teachers-ideal-essay. I wounder what would happen if these two met.
+*/
+
+
+@import url("https://fonts.googleapis.com/css2?family=Comic+Neue&display=swap");
+
+body {
+  background-color: #FF00EE;
+  font-family: "Comic Sans MS", "Comic Sans", "Comic Neue", cursive, sans-serif;
+  color: #00FF15;
+  font-size: 40pt;
+}
+.kinda-small-text-i-guess {
+  font-size: 300pt;
+}
+
+.ooh-this-is-big-boi-text {
+  font-size: 50vh;
+}
+
+.woaw-uh-this-sure-is-a-color-am-i-right-hahahahahahahahahahhahahahahaha {
+  background-color: #FF00EE;
+}
+
+.woaw-uh-this-sure-is-a-color-am-i-right-hahahahahahahahahahhahahahahaha-oh-wait-but-now-its-text-wow {
+  color: #FF00EE;
+}
+.public-service-announcment-uh-if-your-potatoes-are-this-colors-dont-eat-them {
+  color: #00FF15;
+}
+
+.public-service-announcment-uh-if-your-potatoes-are-this-colors-still-dont-eat-them {
+  background-color: #00FF15;
+}
+
+.grade-f-for-font-choice {
+  font-family: "Papyrus", "Comic Sans MS", cursive;
+}
+
+.this-text-has-e-coli {
+  text-decoration: underline wavy red;
+}
+
+.bg-blue-500 {
+  color: red;
+}
+
+.this-div-is-NOICE {
+  height: 69pt;
+  width: 69pt;
+  outline: 5px solid orange;
+}
+
+.this-div-is-EVEN-NOICER {
+  height: 69pt;
+  width: 69pt;
+  outline: 5px solid orange;
+  animation: spin-noice 1.69s infinite linear;
+}
+
+@keyframes spin-noice {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.flexbox-wait-a-sec-just-flexbox-is-way-too-short-of-a-name-so-let-me-tell-you-a-story-once-upon-a-time-the-end-wow-what-a-great-story-am-i-right-am-i-right {
+  display: flex;
+}
+
+.man-why-does-flexbox-get-that-long-name-grid-is-better-am-i-right-my-grid-homies-so-uh-yeah-lets-try-to-make-this-class-name-even-longer-cuz-grid-is-just-better-am-i-right-it-works-in-two-dimensions-flexbox-could-never{
+  display: grid;
+}
+
+.bruh-grid-thinks-theyre-so-cool-i-mean-i-once-spent-like-2-hours-trying-to-make-something-with-just-grid {
+  display: inline-block;
+}
+
+.average-git-commit-name-be-like-----lkghert8iudy6enirtulgsre88tgylirwtu7ghvlr867ythtirewgghfubenfitsflbhecdiryt3gf7dkc8ehvbrug8309vylbrwiu904ughrwybwb {
+  display: block;
+}
+
+.really-all-these-are-dumb-why-have--visible-divs--when-your-div-can-have-----------------------------social-anxiety---yay {
+  display: none;
+}
+
+.margin-is-for-people-who-hate-the-side-of-the-screen {
+  	margin: 100px 50px 100px 50px;
+}
+
+.the-padding-of-my-youth-was-full-of-regret-and-also-25-percent-width-am-i-right {
+  padding-left: 25%;
+}
+
+.flexbox-oh-but-just-for-the-end-i-guess {
+  justify-content: flex-end;
+}
+
+.the-div-is-trying-to-hide-from-you-but-it-knows-its-not-safe-from-the-wrath-of-----------REACT----------------DUN-DUN-DUN {
+  opacity: 0.05;
+}
+
+.i-was-told-that-using-a-web-safe-font-was-a-good-idea-am-i-right-but-i-dont-care-anymore {
+  font-family: "Helvetica," sans-serif;
+}
+
+.im-just-going-to-use-a-font-weight-that-no-one-ever-uses-not-too-bold-not-too-light {
+  font-weight: 875;
+}
+
+.margin-of-error-is-only-one-hundred-pixels-not-a-fraction-of-a-percent-thank-you {
+  margin: 100px;
+}
+
+.when-you-look-at-this-element-it-will-be-deeply-ashamed-of-itself-and-try-to-shrink-away-from-you-you-cant-run-from-the-internet-am-i-right:hover {
+  transform: scale(0.5) rotate(180deg); opacity: 0; transition: all 1s;
+}
+
+.i-forgot-how-to-spell-alighn-so-i-use-this-instead {
+  position: absolute; left: 50%; transform: translateX(-50%);
+}
+
+.outline-black {
+  outline: 2px dotted white;
+  outline-offset: 2px;
+}
+.outline-white {
+  outline: 2px dotted black;
+  outline-offset: 2px;
+}
+
+.i-dont-know-what-this-does-but-looks-fun-amiright {
+  	-webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.this-div-ate-too-many-bigmacs {
+  width: 75vh;
+}
+
+.a-but-its-a-button-because-screw-u-semantics {
+  color: white;
+  background-color: dodgerblue;
+  padding: 10px;
+  border-radius:10px;
+  text-decoration: none;
+}
+
+.a-but-its-a-button-because-screw-u-semantics:hover {
+      color: white;
+      background-color: rgb(108, 182, 255);
+      padding: 15px;
+      border-radius:10px;
+      text-decoration: none;  
+}
+
+.i-have-been-lied-to-this-is-not-a-square-u-liar-this-is-a-circle {
+  border-radius: 50vh;
+}
+
+.me-when-making-this-dumb-framework {
+  width: 300px;
+  height: 200px;
+  background-image: url('https://media.discordapp.net/attachments/1197491292461080656/1412153275117076500/image-16.png?ex=68d988b9&is=68d83739&hm=ed3afd0fa037c88290ad74ca0c306dac38a815803a3512119fece17230ea90fa&=&format=webp&quality=lossless');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.this-div-is-just-slightly-offscreen {
+  height: 100vw;
+  width: 105vw;
+}
+
+.pr-says-you-can-only-use-this-class-during-pride-month-and-you-must-remove-it-the-milisecond-july-starts {
+  background: #ff0000;
+  background: -webkit-linear-gradient(90deg, rgba(255, 0, 0, 1) 0%, rgba(255, 128, 0, 1) 17%, rgba(255, 234, 0, 1) 36%, rgba(26, 255, 0, 1) 55%, rgba(0, 25, 255, 1) 76%, rgba(183, 0, 255, 1) 100%);
+  background: -moz-linear-gradient(90deg, rgba(255, 0, 0, 1) 0%, rgba(255, 128, 0, 1) 17%, rgba(255, 234, 0, 1) 36%, rgba(26, 255, 0, 1) 55%, rgba(0, 25, 255, 1) 76%, rgba(183, 0, 255, 1) 100%);
+  background: linear-gradient(90deg, rgba(255, 0, 0, 1) 0%, rgba(255, 128, 0, 1) 17%, rgba(255, 234, 0, 1) 36%, rgba(26, 255, 0, 1) 55%, rgba(0, 25, 255, 1) 76%, rgba(183, 0, 255, 1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#FF0000", endColorstr="#B700FF", GradientType=1);
+}
+
+.tailwinds-color-system-got-nothin-on-this-1 {
+  background-color: #7C3EB5;
+}
+
+.tailwinds-color-system-got-nothin-on-this-2 {
+  background-color: #D6A82A;
+}
+
+.tailwinds-color-system-got-nothin-on-this-3 {
+  color: #F14C21;
+}
+
+.tailwinds-color-system-got-nothin-on-this-4 {
+  background-color: #D82CE1;
+}
+
+.tailwinds-color-system-got-nothin-on-this-5 {
+  background-color: #4859FA;
+}
+
+.tailwinds-color-system-got-nothin-on-this-6 {
+  background-color: #E79FDD;
+}
+
+.tailwinds-color-system-got-nothin-on-this-7 {
+  color: #1A8376;
+}
+
+.tailwinds-color-system-got-nothin-on-this-8 {
+  color: #FCB318;
+}
+
+.tailwinds-color-system-got-nothin-on-this-9 {
+  background-color: #94305F;
+}
+
+.tailwinds-color-system-got-nothin-on-this-10 {
+  background-color: #3D4C92;
+}
+
+.hmMMMmmMMMMMMmMMmmMmmmMmmmmMmmmMmmmmmMmMMMMMMmmmmmmmmMMMMmmmmmMMMMMmmMmMmmmmmmMMMMMMmmmmmmmmmmmmMmMMMmmmMmmmmmmmMMMMMMMmMmmmmmmmmmmMMmmmmmmmmMMMmMMmMmmmMMMmmmmmmmmmmmmmmMMMMMMMMMMMnMMMMmmmmmmmmmMMMmmMMmMMMMmMMMmmmmmMmMMmMMmMMMmmMmmMMmMmMmmmMMmMmmMmmMmMmmmmmmMMmMMMMMMMMmmmmmmMmMmMMMMMMmmmmmmm {
+   animation: spin-noice 1.69s infinite linear;
+}
+
+.average-trumpet-player {
+  z-index: 9999999;
+}
+
+.So-ApPaRaNtLy-ClAsSeS-aRe-CaSe-SeNsItIvE-sOOoooOOoOooOOooOOOoooOOooOoooooo0-HereS-SOmEtHHiNg-acTualLy-UssEfUo-bUT-u-HAve-2-Wurk-4-it-lOl {
+  font-size: 14pt;
+  height: 250px;
+  width: 500px;
+  background-color: #122eab;
+  border-radius: 20px;
+  color: white;
+  font-family: "Arial", Helvetica, sans-serif;
+  padding: 20px;
+}
+
+.pov-every-logo-in-the-2020s-be-like {
+  font-size: 20pt;
+  background-color: white;
+  color: black;
+  text-transform: lowercase;
+  font-family: "helvetica", helvetica, sans-serif
+}
+
+.grid-template-rows-but-its-the-hunger-games {
+  grid-template-rows: 134509fr 234879fr 54254fr 43438fr 473873fr 23949fr 230930fr 123094fr 349283fr 124893fr 49274fr 204834fr;
+}
+
+.grid-template-columns-but-its-the-hunger-games {
+  grid-template-columns: 134509fr 234879fr 54254fr 43438fr 473873fr 23949fr 230930fr 123094fr 349283fr 124893fr 49274fr 204834fr;
+}
+
+.my-7thgrade-history-teachers-ideal-essay {
+  font-family: "Arial", "Helvetica", sans-serif;
+  font-size: 11pt;
+  line-height: 2;
+  color: black;
+  background-color: white;
+}
+
+.my-elementary-school-english-tutors-ideal-essay {
+  font-family: "Comic Neue", "Comic Sans", "Comic Sans MS", cursive;
+  font-size: 16pt;
+  line-height: 1.15;
+  color: black;
+  background-color: white;
+}
+
+
+.content-end {
+  align-content: flex-end;	
+}
