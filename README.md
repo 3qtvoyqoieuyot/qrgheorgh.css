@@ -2,13 +2,13 @@
 A CSS framework inspired by the elegance of Tailwind CSS
 ## How to install
 Ready to change your web dev game forever with qrgheorgh.css? Nice! Then just add this in your code (replace X.X with the version you want to install:
-'''css
+'''html
 <style>
 @import url("https://cdn.jsdelivr.net/gh/3qtvoyqoieuyot/qrgheorgh.css@main/vX.X/qrgheorgh.css");
 </style>
 '''
 or for the minified version:
-'''css
+'''html
 <style>
 @import url("https://cdn.jsdelivr.net/gh/3qtvoyqoieuyot/qrgheorgh.css@main/vX.X/qrgheorgh-min.css");
 </style>
