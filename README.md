@@ -1,5 +1,5 @@
 # qrgheorgh.css
-A CSS framework inspired by the elegance Tailwind CSS
+A CSS framework inspired by the elegance of Tailwind CSS
 ## How to install
 Ready to change your web dev game forever with qrgheorgh.css? Nice! Then just add this in your code (replace X.X with the version you want to install:
 '''<style>
